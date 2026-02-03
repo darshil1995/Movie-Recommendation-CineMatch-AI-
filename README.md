@@ -37,6 +37,9 @@ To solve these challenges, I built a modular architecture that separates data pr
 
 ```
 
+## Demo
+![App Demo](demo/streamlit_ui_demo.gif)
+
 ## ⚙️ Setup & Installation
 
 1. **Clone the Repo:**
